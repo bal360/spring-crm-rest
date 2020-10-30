@@ -1,1 +1,1 @@
-persistence-mysql.properties
+src/main/resources/persistence-mysql.properties
